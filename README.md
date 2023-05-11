@@ -27,6 +27,8 @@ Link: https://next-promptopia-ewqsy0382-krystian2077.vercel.app/
 
 ## ✨ About of Project
 
+Promptopia App is a project summarizing my knowledge about Next.js version 13.4. This project is my first experience with Next.js. In my opinion it is a powerful, fun and effective tool for building web applications.
+
 ## 🔭 Features
 
 - Next 13.3 and React
